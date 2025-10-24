@@ -1,4 +1,4 @@
-mm# Collection d'algorithmes
+# Collection d'algorithmes
 
 ## Languages:  
 
